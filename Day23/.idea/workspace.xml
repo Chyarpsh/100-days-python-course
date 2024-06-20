@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4077ef77-fb31-43f3-89ab-2a49d32e561a" name="Changes" comment="" />
+    <list default="true" id="4077ef77-fb31-43f3-89ab-2a49d32e561a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day17/.idea/Day17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17/.idea/Day17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day18/.idea/Day18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day18/.idea/Day18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day19/.idea/Day19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day19/.idea/Day19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day19/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day19/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20/.idea/Day20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day20/.idea/Day20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day20/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day20/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day21/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day21/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day24" beforeDir="false" afterPath="$PROJECT_DIR$/../Day24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day25" beforeDir="false" afterPath="$PROJECT_DIR$/../Day25" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.car_manager.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",

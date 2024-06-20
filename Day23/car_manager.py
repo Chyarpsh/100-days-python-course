@@ -1,3 +1,4 @@
+import turtle
 from turtle import Turtle
 import random
 
@@ -29,3 +30,6 @@ class CarManager:
 
     def level_up(self):
         self.car_speed += MOVE_INCREMENT
+
+
+
